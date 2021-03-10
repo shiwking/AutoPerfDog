@@ -1,0 +1,8 @@
+airtest==1.1.8
+docker==4.4.4
+grpcio==1.18.0
+pocoui==1.0.81
+protobuf==3.14.0
+PyMySQL==1.0.2
+openpyxl==3.0.6
+logzero==1.6.3
